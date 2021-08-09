@@ -47,3 +47,6 @@ To pass the header, use ModHeader extension of chrome and get the response.
 
 ![image](https://user-images.githubusercontent.com/40133554/128737850-1087492c-a5d8-4bc6-87ae-ea4ebb609966.png)
 
+To run unit test, run dotnet test command.
+
+![image](https://user-images.githubusercontent.com/40133554/128740589-1956271b-4da7-4d09-b944-bdafbf89fa6b.png)
