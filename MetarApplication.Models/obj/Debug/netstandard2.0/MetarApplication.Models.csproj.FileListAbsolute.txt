@@ -1,0 +1,9 @@
+C:\Users\lenovo\Desktop\MetarApplication\src\MetarApplication.Models\bin\Debug\netstandard2.0\MetarApplication.Models.deps.json
+C:\Users\lenovo\Desktop\MetarApplication\src\MetarApplication.Models\bin\Debug\netstandard2.0\MetarApplication.Models.dll
+C:\Users\lenovo\Desktop\MetarApplication\src\MetarApplication.Models\bin\Debug\netstandard2.0\MetarApplication.Models.pdb
+C:\Users\lenovo\Desktop\MetarApplication\src\MetarApplication.Models\obj\Debug\netstandard2.0\MetarApplication.Models.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\MetarApplication\src\MetarApplication.Models\obj\Debug\netstandard2.0\MetarApplication.Models.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\MetarApplication\src\MetarApplication.Models\obj\Debug\netstandard2.0\MetarApplication.Models.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\MetarApplication\src\MetarApplication.Models\obj\Debug\netstandard2.0\MetarApplication.Models.dll
+C:\Users\lenovo\Desktop\MetarApplication\src\MetarApplication.Models\obj\Debug\netstandard2.0\MetarApplication.Models.pdb
+C:\Users\lenovo\Desktop\MetarApplication\src\MetarApplication.Models\obj\Debug\netstandard2.0\MetarApplication.Models.csprojAssemblyReference.cache

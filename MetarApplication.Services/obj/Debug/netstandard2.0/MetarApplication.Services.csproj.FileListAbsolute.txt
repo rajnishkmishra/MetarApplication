@@ -1,0 +1,12 @@
+C:\Users\lenovo\Desktop\MetarApplication\src\MetarApplication.Services\bin\Debug\netstandard2.0\MetarApplication.Services.deps.json
+C:\Users\lenovo\Desktop\MetarApplication\src\MetarApplication.Services\bin\Debug\netstandard2.0\MetarApplication.Services.dll
+C:\Users\lenovo\Desktop\MetarApplication\src\MetarApplication.Services\bin\Debug\netstandard2.0\MetarApplication.Services.pdb
+C:\Users\lenovo\Desktop\MetarApplication\src\MetarApplication.Services\bin\Debug\netstandard2.0\MetarApplication.Models.dll
+C:\Users\lenovo\Desktop\MetarApplication\src\MetarApplication.Services\bin\Debug\netstandard2.0\MetarApplication.Models.pdb
+C:\Users\lenovo\Desktop\MetarApplication\src\MetarApplication.Services\obj\Debug\netstandard2.0\MetarApplication.Services.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MetarApplication\src\MetarApplication.Services\obj\Debug\netstandard2.0\MetarApplication.Services.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\MetarApplication\src\MetarApplication.Services\obj\Debug\netstandard2.0\MetarApplication.Services.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\MetarApplication\src\MetarApplication.Services\obj\Debug\netstandard2.0\MetarApplication.Services.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\MetarApplication\src\MetarApplication.Services\obj\Debug\netstandard2.0\MetarApplication.Services.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MetarApplication\src\MetarApplication.Services\obj\Debug\netstandard2.0\MetarApplication.Services.dll
+C:\Users\lenovo\Desktop\MetarApplication\src\MetarApplication.Services\obj\Debug\netstandard2.0\MetarApplication.Services.pdb
