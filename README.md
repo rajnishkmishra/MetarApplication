@@ -2,7 +2,7 @@
 
 Prerequisites:
 
-1. Download Dotnet SDK from https://dotnet.microsoft.com/download/dotnet/2.2
+1. Download and install Dotnet SDK from https://dotnet.microsoft.com/download/dotnet/2.2
 2. Add ModHeader extension in Chrome.
 
 
@@ -33,10 +33,10 @@ Sample Output:
 
 ![image](https://user-images.githubusercontent.com/40133554/128733405-a8da6d3c-76e5-49a6-bcbb-0bc33835f3a3.png)
 
-Get the METAR data:
+Get METAR data:
 https://localhost:5001/metar/info?scode=KSGS
 
-You can give othe station code and get the response. You can find list of other station codes here: https://www.cnrfc.noaa.gov/metar.php
+You can give other station code and get the response. You can find list of other station codes here: https://www.cnrfc.noaa.gov/metar.php
 
 Sample Output:
 
